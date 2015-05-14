@@ -9,7 +9,7 @@
  
     // Set our Account SID and AuthToken
     $account_sid = 'ACf24e2df1cbb1caffa21765dd70240524';
-    $auth_token = '13cad99d29cd7c0b1476e59d6dbac5ac';
+    $auth_token = '13cxxxxxxxxxxxxxxxxxxxxxxxc5ac';
  
     // Instantiate a new Twilio Rest Client
     $client = new Services_Twilio($account_sid, $auth_token);
